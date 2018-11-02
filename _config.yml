@@ -8,7 +8,7 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: FILMS和光住人によるPodcast
+description: FILMS和光のPodcast
 description_long: 映画館のある和光市のソーシャルアパートメントの住人たちによるPodcast
 email: info@example.com
 exclude:
