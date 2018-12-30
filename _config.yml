@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
+  Yoshikai:
+    image_url: /images/actors/bob.png
+    name: Yoshikai
+    url: https://twitter.com/yoshikai_
 author: alice
 description: FILMS和光のPodcast
 description_long: 映画館のある和光市のソーシャルアパートメントの住人たちによるPodcast
