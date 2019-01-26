@@ -23,7 +23,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-106859358-2
 hashtag: FILMS-WAKO
 itunes_podcast_url:
 keywords: comma,separated,keywords
