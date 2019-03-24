@@ -34,7 +34,7 @@ exclude:
   - README.md
   - vendor
 google_analytics: UA-106859358-2
-hashtag: FILMS-WAKO
+hashtag: FILMS_WAKO
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
