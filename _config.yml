@@ -17,6 +17,9 @@ actors:
   Shimizo:
       image_url: /images/actors/bob.png
       name: Shimizo
+  Moet:
+      image_url: /images/actors/bob.png
+      name: Moet
 
 author: alice
 description: FILMS和光のPodcast
